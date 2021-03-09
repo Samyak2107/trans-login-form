@@ -60,20 +60,10 @@ section {
       -webkit-transition: height 1s;
   }
 
-#name:focus {
+#name:focus, #password:focus, #email:focus {
       height: 45px;
       font-size: 15px;
   }
-
-#password:focus {
-    height: 45px;
-    font-size: 15px;
-}
-
-#email:focus {
-    height: 45px;
-    font-size: 15px;
-}
 
 .btn {
     border-radius: 20px!important;
