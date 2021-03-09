@@ -37,6 +37,12 @@ section {
     }
 }
 
+@media (max-width: 500px) {
+    section {
+        height: 90vh;
+    }
+}
+
 .card {
         background-color: rgba(0, 0, 0, 0.2)!important;
     }
