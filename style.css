@@ -46,11 +46,6 @@ section {
 .card {
         background-color: rgba(0, 0, 0, 0.2)!important;
     }
-  
- h2 {
-    font-weight: bold;
-    color: cyan;
-  }
 
   hr {
       color: white!important;
